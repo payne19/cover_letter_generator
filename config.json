@@ -1,0 +1,9 @@
+{
+  "default_model": "llama-3.1-8b-instant",
+  "models": [
+    "llama-3.1-8b-instant",
+    "mixtral-8x7b-32768",
+    "gemma-7b-it"
+  ],
+  "system_prompt": "You write sharp, professional cover letters.\n\nRules:\n- No fluff or buzzwords\n- Avoid generic phrases like 'I am excited'\n- Be specific and direct\n- Match resume to job requirements\n- Keep it under 250 words\n- Use a natural human tone"
+}
