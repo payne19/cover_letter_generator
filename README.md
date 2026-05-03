@@ -53,7 +53,7 @@ Create a `config.json` file:
 ```json
 {
   "system_prompt": "You are a professional cover letter writer.",
-  "default_model": "llama-3.1-70b-versatile",
+  "default_model": "llama-3.1-8b-instant",
   "models": [
     "llama-3.1-70b-versatile",
     "llama-3.1-8b-instant"
